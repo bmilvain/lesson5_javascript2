@@ -10,7 +10,7 @@ March 13, 2018
 Brian Milvain
 
 ### Project Description:
-In this assignment we were instructed to add code to the existing index.html page and also the taxBracket_Calculator.js file. We were to add three more filing statuses and also clear the calculatore once you hit clear calculator.
+In this assignment we were instructed to add code to the existing index.html page and also the taxBracket_Calculator.js file. We were to add three more filing statuses and also clear the calculator once you hit clear calculator.
 
 ### View Project:
 https://bmilvain.github.io/lesson5_javascript2/
